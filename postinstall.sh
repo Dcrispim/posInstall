@@ -131,7 +131,7 @@ sudo echo 'export PS1="\[\e[32m\]\u \[\033[01;32m\] \W \[\e[91m\]\$(git_branch)\
 
 sudo apt-get install python3-venv
 
-
+$DIRETORIO_ANDROID_SDK/android-studio/bin/studio.sh
 
 
  
